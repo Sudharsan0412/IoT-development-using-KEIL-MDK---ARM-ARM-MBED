@@ -1,0 +1,2 @@
+# IoT-development-using-KEIL-MDK---ARM-ARM-MBED
+IoT having many applications, in that we took that STM32L4R5ZIT6 NUCLEO-144 Board &amp; its features, microprocessor. We use KEIL MDK-ARM compiler &amp; ARM MBED OS. IoT protocol layers such as physical layer, network layer, transport layer, application layer. IoT communication technologies such as short range (bluetooth) &amp; long range (LoRa) communication.
